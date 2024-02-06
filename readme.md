@@ -1,4 +1,5 @@
 # Highest-Paid Athletes
+
 - Press `Use this template`
 - Clone the repo from your github repo
 - `npm i`
